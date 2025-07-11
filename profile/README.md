@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/mirachcommunity/.github/profile/banner.png" alt="Mirach Community Banner"/>
+  <img src="https://github.com/mirachcommunity/.github/blob/main/profile/banner.png" alt="Mirach Community Banner"/>
 </p>
 
 <h1 align="center">
